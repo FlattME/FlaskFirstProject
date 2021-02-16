@@ -1,0 +1,76 @@
+h1, h2 {
+    text-align: center;
+}
+
+.form {
+    display: block;
+    width: 700px;
+    text-align: center;
+
+    margin: 0 auto;
+    background: #eec084;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+.input_field {
+    display: block;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 1px;
+}
+
+input#firstname {
+    margin-bottom: 10px;
+}
+
+input#email {
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 1px;
+    margin-bottom: 10px;
+}
+
+h6 {
+    margin-left: 5%;
+}
+
+select#education {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.form-check-input {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.form-check {
+    width: 90%;
+    margin-left: 5%;
+}
+
+textarea#about {
+    width: 90%;
+    margin-left: 5%;
+}
+
+input#photo {
+    width: 90%;
+    margin-left: 5%;
+}
+
+input#u_sure {
+    width: 90%;
+    margin-left: 5%;}
+
+button.btn-primary {
+    width: 50%;
+    margin-left: 5%;
+}
+
+
+.slider {
+    width: 90%;
+    margin: 0 auto;
+}
